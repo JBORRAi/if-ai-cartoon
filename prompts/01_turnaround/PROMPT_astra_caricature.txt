@@ -1,0 +1,19 @@
+S RESULTATEdit @0_planche_v1. Keep the same character (ZAK), the same layout (five full-body views on top, close-ups
+below), the same fur tunic, the bare feet, the hair and the light grey background.
+
+Turn him from realistic into a STRONG CARTOON CARICATURE in the style of @3_style_mains_pose,
+@4_style_visages and @5_rendu_cible:
+- PROPORTIONS: much bigger upper body and shoulders, a big hunched back, the head pushed forward and lower,
+  shorter bowed legs. Clearly cartoon, not human anatomy.
+- HANDS: TWICE as big, very stylized, thick blocky segmented fingers, huge knuckles, angular shapes.
+  FEET: huge, wide, flat bare feet.
+- SHAPES: big round masses (forearms, calves, nose, lips) contrasted with angular planes (square jaw,
+  cheekbones, heavy brow, elbows, knuckles).
+- FACE: much bigger nose, thicker protruding lips, heavier brow, small deep-set eyes, more character.
+- RENDER: stylized sculpted 3D like @5_rendu_cible, painted textures, visible hand-drawn line accents and
+  hatching. Less photographic.
+- BOTTOM ROW: make it FIVE close-ups with five very DIFFERENT, exaggerated expressions: fierce
+  concentration (tongue out, squinting), shock (bulging eyes, jaw dropped), puzzled (one eyebrow up,
+  mouth twisted), frustrated (teeth clenched), proud (huge grin).
+
+DO NOT: realistic human proportions, small hands, identical faces, shoes, text, watermark.

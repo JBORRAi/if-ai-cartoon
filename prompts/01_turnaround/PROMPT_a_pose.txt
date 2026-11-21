@@ -1,0 +1,14 @@
+Edit @1_zak_face into a clean 3D character modelling reference. Keep EXACTLY the same character: same face,
+hair, body proportions, huge hands, bare feet, fur tunic, colours and stylized 3D look.
+
+Change only the POSE to a standard A-POSE for rigging:
+- standing straight and symmetrical, facing the camera, feet shoulder-width apart, flat on the ground;
+- both arms lifted away from the body at about 45 degrees, elbows slightly bent, hands open and relaxed,
+  fingers slightly apart, clearly separated from the torso and the legs (visible empty space all around);
+- head upright on a visible neck, looking straight ahead; the hair falls behind the shoulders and does not
+  touch or merge with the shoulders or the fur tunic;
+- the fur tunic ends at the shoulders with the arms completely free.
+Plain light grey background, even studio light, no shadows on the ground, full body visible with margin.
+
+DO NOT: change the character design, crouching, hunched pose, arms touching the body, hands touching the
+legs, hair covering the shoulders, text, watermark.

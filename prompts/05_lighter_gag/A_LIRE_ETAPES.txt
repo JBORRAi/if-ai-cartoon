@@ -1,0 +1,18 @@
+TEST RUNWAY — Seedance 2.5 — UNE génération par étape, dans l'ordre. Résultats -> ../3_RESULTATS/
+
+ETAPE 1 — FAIT (vidéo de 12 s obtenue : frappe de silex)
+  Source : 1_anim_blender.mp4 · Réf : 2_style_plan_fixe, 3_zak, 4_zak_expressions · Prompt : PROMPT_runway.txt
+
+ETAPE 2 — FAIT — EXTEND de la vidéo de l'étape 1 · 12 à 15 s · audio ON
+  Ce qu'on voit : grande respiration blasée, puis frappe frénétique, expressions comiques, cycle jour/nuit, AUCUN feu
+  Réf : 3_zak, 4_zak_expressions · Prompt : PROMPT_extension.txt
+
+ETAPE 3 — À FAIRE MAINTENANT — EXTEND de la vidéo de l'étape 2 · 10 s · audio ON
+  Ce qu'on voit : la main surgit par le bas au 1er plan (STOP), tour du briquet au 1er plan (flou derrière), ressort par le bas
+  Réf : 3_zak, 4_zak_expressions, 5_la_main · Prompt : PROMPT_main_A_10s.txt
+
+ETAPE 4 — EXTEND de la vidéo de l'étape 3 · 10 s · audio ON
+  Ce qu'on voit : la main revient par la droite, claque des doigts, tend le briquet, sursaut figé, Zak prend le briquet
+  Réf : 3_zak, 4_zak_expressions, 6_main_echelle_zak · Prompt : PROMPT_main_B_10s.txt
+
+Nommer les résultats : P02_etape2.mp4, P02_etape3.mp4, P02_etape4.mp4 (et P02_etape1.mp4 pour la 12 s).

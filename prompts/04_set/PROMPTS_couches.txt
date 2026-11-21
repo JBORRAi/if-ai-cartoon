@@ -1,0 +1,22 @@
+ Un première planDÉCOR EN COUCHES (parallaxe, « pièce de théâtre ») — une image par couche, 21:9, même lumière
+Style commun à coller au début de chaque prompt :
+Stylized painted prehistoric landscape for an animated comedy, in the spirit of @1_croquis_grotte and the
+render quality of @2_rendu_cible: hand-painted textures, soft warm late-afternoon light from the left,
+warm ochre and green savanna palette, light ink line accents. No characters.
+
+P6_CIEL : a wide warm sky, pale blue fading to warm gold near the horizon, a few soft painted clouds,
+a few tiny birds. Full frame, no ground.
+
+P5_FOND_montagnes : distant hazy blue-grey mountains and rolling hills along the bottom third, soft
+atmospheric perspective. Everything above the mountains is PLAIN FLAT PURE GREEN (#00FF00) for keying.
+
+P4_MILIEU_acacia_savane : a flat savanna plain with tall golden grass and one flat-topped acacia tree on
+the right third. Everything above the horizon is PLAIN FLAT PURE GREEN (#00FF00).
+
+P3_GROTTE_falaise : the rocky cliff with the big dark cave entrance on the LEFT third of the frame, exactly as in
+@1_croquis_grotte, grass at its foot. Everything else (sky, right side) PLAIN FLAT PURE GREEN (#00FF00).
+
+P1_AVANT_herbe_mammouth : foreground only, very close to the camera: large tall blades of savanna grass and
+a few wild flowers along the bottom edge and the left side, and part of a big mammoth skeleton (curved tusk,
+ribs) entering from the bottom left corner. Leave the right half open. Everything else PLAIN FLAT PURE GREEN
+(#00FF00). (This layer will be blurred in Blender for a shallow depth-of-field bokeh effect.)

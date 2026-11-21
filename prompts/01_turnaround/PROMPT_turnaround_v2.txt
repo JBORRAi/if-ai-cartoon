@@ -1,0 +1,24 @@
+Character model sheet of ZAK, a funny prehistoric cartoon character.
+
+@1_zak_croquis is ZAK himself: keep his face, hair and attitude exactly - long heavy hair falling over his
+face and one eye, heavy-lidded deep-set eyes under a strong brow, big broad nose, very thick protruding
+lips, short scruffy beard, grumpy stubborn look.
+
+Drawn in the personal cartoon style of @2_style_masse, @3_style_mains_pose and @4_style_visages: strong
+caricature, exaggerated proportions. Huge upper body and shoulders, heavy hunched posture with the head
+pushed forward, short legs. OVERSIZED, very stylized hands with blocky segmented fingers and big knuckles,
+oversized bare feet. Big round masses (muscles, nose, lips) contrasted with angular planes (square jaw,
+cheekbones, brows, elbows, knuckles). Rendered in 3D volume exactly like @5_rendu_cible: stylized sculpted
+3D, painted textures, visible hand-drawn line accents and hatching, soft studio light.
+
+Clothing: a long shaggy one-piece fur tunic covering him from shoulders to knees. He is BAREFOOT.
+Family-friendly cartoon character.
+
+LAYOUT: one wide sheet on a plain light grey background. Top row: five full-body views at the SAME scale on
+the same ground line: front, three-quarter front, side profile, three-quarter back, back, neutral hunched
+standing pose, arms slightly away from the body. Bottom row: five head close-ups with STRONG, exaggerated
+expressions: fierce concentration (tongue out, squinting), shock (bulging eyes, jaw dropped), puzzled
+(one eyebrow up, mouth twisted), frustrated (teeth clenched), proud (huge grin).
+
+DO NOT: smooth Pixar look, realistic anatomy, neutral faces, small hands, shoes or sandals, text, labels,
+watermark.

@@ -1,0 +1,17 @@
+@1_rendu_blender is ONLY a rough layout sketch made of simple grey placeholder shapes. Use it only for the
+composition: where things are, their size and the camera angle. Do NOT copy its look, its flat colours, its
+smooth plastic shapes or its lighting. Completely repaint every surface from scratch as a finished, richly
+detailed frame from a high-end stylized 3D animated feature film.
+
+ZAK, the caveman on the right, stays exactly the character of @2_zak_planche (same design, face, hair, huge
+hands, fur tunic), same pose, same size and place in the frame. He is the most important element.
+
+Reinvent the environment freely and beautifully, in the spirit of @4_rendu_cible and the drawing
+@3_croquis_decor: a monumental craggy cliff with deep cracks, strata and overhangs around a huge dark cave
+mouth; real lush wild savanna grass; a characterful mammoth skull with long curved tusks; a sculpted acacia;
+a distant smoking volcano under enormous towering cumulus clouds in a radiant blue sky. Soft pastel palette,
+warm late-afternoon light from the left, atmospheric haze, cinematic depth of field with the foreground
+grass blurred.
+
+DO NOT: keep the grey placeholder look, simple geometric shapes, change Zak, change the framing, add
+characters, photorealism, text, watermark.
